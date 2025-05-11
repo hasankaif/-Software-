@@ -50,6 +50,11 @@ Important Software Links are listed here : )
 7. 
 
 
+### DOWNLOAD LINKS:
+
+- BEST FTP : http://172.16.50.8/DHAKA-FLIX-8/Software/
+- ( P R E S E T S   &  T E M P L A T E S )
+- 
 
 
 
