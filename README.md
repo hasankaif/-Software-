@@ -19,7 +19,7 @@ Important Software Links are listed here : )
 	12. Winrar
 	13. IDM
 	14. qbittorrent
-	15. 
+	15. Google Drive Desktop
 	16. 
 2. For Browsing:
 	1. Google
@@ -50,6 +50,8 @@ Important Software Links are listed here : )
 7. 
 
 
+### DOWNLOAD LINKS:
 
-
+- BEST FTP : http://172.16.50.8/DHAKA-FLIX-8/Software/
+- DOWNLOAD PRESETS & TEMPS : 
 
