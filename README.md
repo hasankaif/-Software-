@@ -1,4 +1,5 @@
-# Software
+
+# SOFTWARE LOG-BOOK
 Important Software Links are listed here : )
 
 ### A NEWLY WINDOWS NEED THESE:
@@ -7,14 +8,19 @@ Important Software Links are listed here : )
 	1. Sharex
 	2. OBS
 	3. Proton Pass Manager
-	4. Todoist
-	5. Revo Uninstaller
+	4. Revo Uninstaller
+	5. Todoist
 	6. Obsidian
-	7. Chatgpt
-	8. Ms Powertoys
-	9. Pentablet
-	10. Media Monkey
-	11. 
+	7. Notion
+	8. Chatgpt
+	9. Ms Powertoys
+	10. Pentablet
+	11. Media Monkey
+	12. Winrar
+	13. IDM
+	14. qbittorrent
+	15. 
+	16. 
 2. For Browsing:
 	1. Google
 	2. Brave
@@ -22,8 +28,7 @@ Important Software Links are listed here : )
 	4. Duckduckgo
 	5. Vivaldi
 	6. LibreWolf
-	7. Opera
-	8. 
+	7. Opera 
 3.  For Social Media:
 	1. Telegram
 	2. Whatsapp
@@ -36,12 +41,15 @@ Important Software Links are listed here : )
 	4. 
 5. For Coding:
 	1. VsCode
-	2. 
-	3. 
+	2. Github Desktop
+	3. Git
 	4. 
 6. For Animation:
 	1. Adobe CC Tools
 	2. 
 7. 
+
+
+
 
 
