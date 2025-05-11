@@ -65,6 +65,8 @@ Important Software Links are listed here : )
 2. [GitHub Desktop](https://desktop.github.com/)
 3. [Git](https://git-scm.com/downloads)
 4. [Postman](https://www.postman.com/downloads/)
+5. [MinGW](https://sourceforge.net/projects/mingw/)
+6. [Codeblocks (Mingw Setup)](https://www.codeblocks.org/downloads/binaries/) - Download this File (codeblocks-25.03mingw-setup.exe)
 
 ---
 
