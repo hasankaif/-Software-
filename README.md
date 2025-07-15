@@ -67,6 +67,9 @@ Important Software Links are listed here : )
 4. [Postman](https://www.postman.com/downloads/)
 5. [MinGW](https://sourceforge.net/projects/mingw/)
 6. [Codeblocks (Mingw Setup)](https://www.codeblocks.org/downloads/binaries/) - Download this File (codeblocks-25.03mingw-setup.exe)
+7. Intellij
+8. Android Studio
+9. Eclipse 
 
 ---
 
@@ -76,6 +79,14 @@ Important Software Links are listed here : )
 2. [Blender](https://www.blender.org/download/)
 
 ---
+
+### 7. For Fun:
+
+1. Chess.com (Play chess)
+
+
+---
+
 
 # DOWNLOAD LINKS:
 ---
