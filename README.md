@@ -93,7 +93,7 @@ Important Software Links are listed here : )
 
 - BEST FTP : http://172.16.50.8/DHAKA-FLIX-8/Software/
 - PRESETS & TEMPS : [click_here](https://github.com/hasankaif/-Software/tree/main/(%20P%20R%20E%20S%20E%20T%20S%20%20%20%26%20%20T%20E%20M%20P%20L%20A%20T%20E%20S%20))
-- 
+- ICC FTP : (Go to the Software location) http://10.16.100.244/?category=11
 
 
 
