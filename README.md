@@ -65,7 +65,7 @@ Important Software Links are listed here : )
 4. [Postman](https://www.postman.com/downloads/)
 5. [MinGW](https://sourceforge.net/projects/mingw/)
 6. [Codeblocks (Mingw Setup)](https://www.codeblocks.org/downloads/binaries/) - Download this File (codeblocks-25.03mingw-setup.exe)
-7. Intellij
+7. [Intellij](https://www.jetbrains.com/idea/download/?section=windows)
 8. Android Studio
 9. Eclipse 
 
