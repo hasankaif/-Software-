@@ -6,7 +6,7 @@ Important Software Links are listed here : )
 
 ---
 
-### 1. Daily Basic Tools:
+### 1. ESSENTIALS
 
 1. [ShareX](https://getsharex.com/downloads)
 2. [OBS Studio](https://obsproject.com/download)
@@ -27,7 +27,7 @@ Important Software Links are listed here : )
 
 ---
 
-### 2. For Browsing:
+### 2. BROWSER
 
 1. [Google Chrome](https://www.google.com/chrome/)
 2. [Brave](https://brave.com/download/)
@@ -39,7 +39,7 @@ Important Software Links are listed here : )
 
 ---
 
-### 3. For Social Media:
+### 3. SOCIAL MEDIA
 
 1. [Telegram](https://desktop.telegram.org/)
 2. [WhatsApp](https://www.whatsapp.com/download)
@@ -48,7 +48,7 @@ Important Software Links are listed here : )
 
 ---
 
-### 4. For Office Works:
+### 4. OFFICE SUITES
 
 1. [Microsoft Office Tools](https://www.microsoft.com/microsoft-365/get-started-with-office-2021)
 2. [WPS Office](https://www.wps.com/download/)
@@ -57,7 +57,7 @@ Important Software Links are listed here : )
 
 ---
 
-### 5. For Coding:
+### 5. CODING
 
 1. [Visual Studio Code](https://code.visualstudio.com/Download)
 2. [GitHub Desktop](https://desktop.github.com/)
@@ -71,16 +71,16 @@ Important Software Links are listed here : )
 
 ---
 
-### 6. For Animation:
+### 6. ANIMATION
 
 1. [Adobe Creative Cloud Tools](http://172.16.50.8/DHAKA-FLIX-8/Software/Adobe%20Collection%20%26%20Plugins%20%28Windows%29/Adobe%20Creative%20Cloud%20Collection%202024%20v04.12.2023%20Pre-Activated%20%2864bit%29/)
 2. [Blender](https://www.blender.org/download/)
 
 ---
 
-### 7. For Fun:
+### 7. NOTE
 
-1. Chess.com (Play chess)
+1. KeppNote : http://keepnote.org/
 
 
 ---
