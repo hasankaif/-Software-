@@ -3,7 +3,6 @@
 # SOFTWARE LOG-BOOK
 Important Software Links are listed here : )
 
-
 ---
 
 ### 1. ESSENTIALS
