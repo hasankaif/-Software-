@@ -79,7 +79,7 @@ Important Software Links are listed here : )
 
 ### 7. NOTE
 
-1. KeppNote : http://keepnote.org/
+1. KeepNote : http://keepnote.org/
 
 
 ---
